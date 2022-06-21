@@ -59,7 +59,7 @@ function App() {
       </div>
 
       <div class=" p-3 ">
-      <input onChange={setResult} value={result} type="text" className="form-control" readOnly  {...result}/>
+      <input onChange={setResult} value={result} type="text" className="form-control" readOnly/>
       </div>
 
       </div>
